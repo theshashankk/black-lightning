@@ -30,6 +30,8 @@
 * [Uniborg](https://github.com/SpEcHiDe/UniBorg)
 * [CipherX1-ops](https://t.me/CipherX1-ops)
 * [Hellboi-Danish](https://t.me/Hellboi-Danish)
+## suspension solved by
+* [ShashankxD](t.me/shashankxD)
 
 
 # Support
